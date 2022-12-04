@@ -1,0 +1,14 @@
+C:\Users\th070\Desktop\MySort\csharp\mysorttest\mysorttest\bin\Debug\netcoreapp3.1\mysorttest.exe
+C:\Users\th070\Desktop\MySort\csharp\mysorttest\mysorttest\bin\Debug\netcoreapp3.1\mysorttest.deps.json
+C:\Users\th070\Desktop\MySort\csharp\mysorttest\mysorttest\bin\Debug\netcoreapp3.1\mysorttest.runtimeconfig.json
+C:\Users\th070\Desktop\MySort\csharp\mysorttest\mysorttest\bin\Debug\netcoreapp3.1\mysorttest.runtimeconfig.dev.json
+C:\Users\th070\Desktop\MySort\csharp\mysorttest\mysorttest\bin\Debug\netcoreapp3.1\mysorttest.dll
+C:\Users\th070\Desktop\MySort\csharp\mysorttest\mysorttest\bin\Debug\netcoreapp3.1\mysorttest.pdb
+C:\Users\th070\Desktop\MySort\csharp\mysorttest\mysorttest\obj\Debug\netcoreapp3.1\mysorttest.csproj.AssemblyReference.cache
+C:\Users\th070\Desktop\MySort\csharp\mysorttest\mysorttest\obj\Debug\netcoreapp3.1\mysorttest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\th070\Desktop\MySort\csharp\mysorttest\mysorttest\obj\Debug\netcoreapp3.1\mysorttest.AssemblyInfoInputs.cache
+C:\Users\th070\Desktop\MySort\csharp\mysorttest\mysorttest\obj\Debug\netcoreapp3.1\mysorttest.AssemblyInfo.cs
+C:\Users\th070\Desktop\MySort\csharp\mysorttest\mysorttest\obj\Debug\netcoreapp3.1\mysorttest.csproj.CoreCompileInputs.cache
+C:\Users\th070\Desktop\MySort\csharp\mysorttest\mysorttest\obj\Debug\netcoreapp3.1\mysorttest.dll
+C:\Users\th070\Desktop\MySort\csharp\mysorttest\mysorttest\obj\Debug\netcoreapp3.1\mysorttest.pdb
+C:\Users\th070\Desktop\MySort\csharp\mysorttest\mysorttest\obj\Debug\netcoreapp3.1\mysorttest.genruntimeconfig.cache
