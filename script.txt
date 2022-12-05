@@ -1,0 +1,83 @@
+대본
+
+한국어
+
+
+영어
+Ok Hello everyone
+Maybe I made a new sort algorithm.
+If you found that it already exists, please leave comment.
+
+
+
+So first, this algorithm made by me was explained on the website.
+https://newsort.netlify.app/
+
+If you click this language button, you can change language like this.
+But, PDF has not been translated into English yet.
+
+
+Ok then, I`ll start explain about it.
+
+
+
+The name of new sort algorithm is Yo-yo Sort.
+Its TimeComplexity is O( n + k ) and SpaceComplexity is O( n + k ).
+
+n is length of array
+In TimeComplexity, k is max - min + 1
+In SpaceComplexity, k is number of duplicates. but it is hash table.
+
+It's time to explain priciple.
+It uses Hash Table & for loop.
+
+First, Value and number are assigned as Key and Value respectively in Hash Table.
+
+Yeah Then, delete default array value.
+Next, it loops min to max + 1.
+When it loops, if there's a key that matches to loop value in hash table, 
+add the loop value
+its count is Value in hash table with key that is loop value.
+
+Finally, this algorithm is done.
+
+If you want to know the result of the experiment compared with some sort algorithms,
+See PDF top of this website.
+
+
+Wait, you have to know that in python, it's space complexity can be more than O(n + k), not C#.
+Because before this time, I didn't use the same array in the sort algorithm.
+Thanks.
+
+
+
+
+Next is Deduping Sticker.
+It's not a sort algorithm but i think it will help sort.
+
+
+Its TimeComplexity is O( n + x ) and SpaceComplexity is O( n + k + j )
+
+n is length of array
+x is TimeComplexity of the sort to be used / if i use Quick Sort, x will be n log n
+k is number of duplicates
+j is length of array with duplicates removed
+
+
+It's time to explain priciple.
+It uses Hash Table & Some sort algorithm.
+
+
+First, Value and number are assigned as Key and Value respectively in Hash Table.
+Second one, the array is set to key of hash table.
+yeah it's deduped array.
+Second two, sort array.
+Last, Array based on values and counts in Hash Table.
+Yeah it is sorted.
+
+Finally, this algorithm is done.
+
+When I tested it, it was usually slow.
+
+If you want to know the result of the experiment compared with some sort algorithms,
+See PDF top of this website.

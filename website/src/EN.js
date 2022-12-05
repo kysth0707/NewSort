@@ -3,7 +3,7 @@ var ENJson = {
 	"PDFLink" : "Go to PDF",
 	"Copyright" : "Copyright 2022. 김태형(kysth0707) all rights reserved.",
 	
-	"yoyo-TimeAndSpace" : "TimeComplexity O( n + k ) / SpaceComplexity O( n + j )",
+	"yoyo-TimeAndSpace" : "TimeComplexity O( n + k ) / SpaceComplexity O( n + k )",
 	"yoyo-TimeAndSpace-Explain" : "n : length of array<br>TimeComplexity k : Max - Min + 1<br>SpaceComplexity k : number of duplicates<br>",
 	"yoyo-Principle" : "<h2>Principle</h2>1. Value and number are assigned as Key and Value respectively in Hash Table<br>2. Delete default array value<br>3. Iterates through the minimum and maximum values and arranges the ones stored in the Hash Table in order.<br>Please check the pdf for details.<br><br>",
 
