@@ -1,0 +1,46 @@
+body {
+	background-color: white;
+}
+
+.Button {
+	width: 30%;
+	margin-left: 12.5%;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+	
+	border-radius: 10px;
+	padding: 1%;
+	font-size: large;
+
+	opacity: 0.5;
+	transition: all 0.3s;
+} 
+.Button:hover {
+	background-color: beige;
+	opacity: 1;
+}
+
+.Title {
+	text-align: center;
+	color: black;
+}
+
+.Subtitle {
+	text-align: center;
+}
+
+.LanguageSetting {
+	text-align: center;
+}
+
+.YoutubeVideo {
+	border-radius: 20px;
+	border-color: black;
+}
+
+a {
+	text-decoration: none;
+}
+
+.PDFLink {
+	color: red;
+}
